@@ -28,12 +28,12 @@ p{
 
 }
 .h11{
-	text-shadow: 2px 2px ##eeeeee;
+	text-shadow: 3px 2px #eeeeee;
 	font-size:55px;
 }
 .h12
 {
-	text-shadow: 3px 2px #32dbc6;
+	text-shadow: 3px 2px #f0decb;
 	text-align:left;
 	font-size:30;
 	padding:10px;
