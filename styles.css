@@ -12,7 +12,7 @@ h2{
 	left:0;
 }
 body {
-	padding:10px;
+	
 	margin:0;
 	text-align:center;
 	background-image:url(https://github.com/bhanubeings/index/blob/master/1.png?raw=true);
@@ -47,6 +47,7 @@ p{
 	background-color:#bbeaa6;
 }
 .pr{
+	padding:10px;
 	float:left;
 	margin-right:30px;
     width:30%;
@@ -58,6 +59,7 @@ p{
 	background-color:#e3c878;
 }
 .sr{
+	padding:10px;
 	float:left;
 	margin-right:30px;
     width:30%;
@@ -70,6 +72,7 @@ p{
 
 }
 .mu{
+	padding:10px;
 	float:left;
 	margin-right:30px;
     width:30%;
@@ -82,6 +85,7 @@ p{
 	background-color:#f0decb;
 }
 .rj{
+	padding:10px;
 	float:left;
 	margin-righ	:30px;
     width:30%;
@@ -93,6 +97,7 @@ p{
 	background-color:#b18ea6;
 }
 .ch{
+	padding:10px;
 	float:left;
 	margin-right:30px;
     width:30%;
@@ -106,6 +111,7 @@ p{
 
 }
 .mo{
+	padding:10px;
 	float:left;
 	margin-right:30px;
     width:30%;
@@ -118,6 +124,7 @@ p{
 
 }
 .sa{
+	padding:10px;
 	float:left;
 	margin-right:30px;
     width:30%;
